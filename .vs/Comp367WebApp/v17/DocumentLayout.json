@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Comp367WebApp\\Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Comp367WebApp\\Comp367WebApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "Comp367WebApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-08T01:39:04.545Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Comp367WebApp\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T01:30:41.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T01:30:41.393Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Comp367WebApp\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-08T01:30:31.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T01:30:31.994Z"
             }
           ]
         }
