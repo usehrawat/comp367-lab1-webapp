@@ -31,3 +31,4 @@ C:\Users\user\source\repos\Comp367WebApp\Comp367WebApp\obj\Debug\net8.0\refint\C
 C:\Users\user\source\repos\Comp367WebApp\Comp367WebApp\obj\Debug\net8.0\Comp367WebApp.pdb
 C:\Users\user\source\repos\Comp367WebApp\Comp367WebApp\obj\Debug\net8.0\Comp367WebApp.genruntimeconfig.cache
 C:\Users\user\source\repos\Comp367WebApp\Comp367WebApp\obj\Debug\net8.0\ref\Comp367WebApp.dll
+C:\Users\user\source\repos\Comp367WebApp\Comp367WebApp\obj\Debug\net8.0\Comp367WebApp.sourcelink.json
